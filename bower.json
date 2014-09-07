@@ -1,0 +1,20 @@
+{
+  "name": "theroll",
+  "version": "0.0.0",
+  "homepage": "https://github.com/jhiggins-thrillist/theroll",
+  "authors": [
+    "Joseph Higgins <jhiggins@thrillist.com>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "momentjs": "~2.8.3"
+  }
+}
